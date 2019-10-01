@@ -1,5 +1,3 @@
-package Program_Assignment_2_Queues;
-
 import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Iterator;
